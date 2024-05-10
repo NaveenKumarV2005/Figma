@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div style="width: 204px; height: 390px; position: relative; background: white">
   <div style="width: 204px; height: 390px; left: 0px; top: 0px; position: absolute; background: #41B5CE"></div>
   <img style="width: 70px; height: 72px; left: 59px; top: 7px; position: absolute; border-radius: 35px" src="https://via.placeholder.com/70x72" />
@@ -74,6 +75,7 @@ Figma
   <div style="width: 186px; height: 31px; left: 18px; top: 228px; position: absolute; color: #873131; font-size: 24px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">LET ‘ S MEET</div>
   <div style="width: 186px; height: 31px; left: 65px; top: 251px; position: absolute; color: #643E3E; font-size: 24px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">ON EVENTS</div>
 </div>
+```
 
 ## OUTPUT:
 <img width="498" alt="web 9" src="https://github.com/NaveenKumarV2005/Figma/assets/151476286/a95e515b-7de0-4c1f-b5db-bb11a5343dcf">
